@@ -1,0 +1,73 @@
+body { 
+background-color: darkcyan;   
+ --background-image: url("Web_elements/bgimage6.jpg");
+
+}
+ h2 { text-align: center; 
+ font-weight: bold; 
+ color: black;
+ text-align: center; 
+ }
+table{
+	border: 0px;
+	
+	width: 100%;
+	font-size: 20px;
+	
+}
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+a: {
+	text-decoration: none;
+}
+ #tb {
+	background-color: blue;
+font-family: Arial, Verdana, sans-serif;
+font-size: 18px;
+width: 100%;
+color: black;
+margin: -1px;
+padding: 0px;
+	border: 1px solid black;
+
+}
+#t {
+--	border: 1px solid black;
+font-family: Arial;
+font-size: 18px;
+	margin: inherit;
+	padding: 0px 0px 0px 0px;
+	
+
+}
+	.p{
+font-family: Arial, Verdana, sans-serif;
+font-size: 14px;
+color: black;
+font-weight: bold;
+	text-align: center;
+} 
+
+	.mjs{
+		
+		font-family: Arial, Verdana, sans-serif;
+		font-weight: bold;
+		color: red;
+	}

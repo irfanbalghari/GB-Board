@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<rss version="2.0">
+  <channel>
+    <title>XML.com</title>
+    <link>http://www.xml.com/</link> 
+    <description>XML.com features a rich mix of...</description>
+    <language>en-us</language>
+    <item>
+      <title>The .NET Schema Object Model</title>
+      <link>http://www.xml.com/pub/a/2002/12/04/som.html</link>
+      <description>The .NET Schema Object Model</description>
+    </item>
+    <item>
+      <title>SVG's Past and Promising Future</title>
+      <link>http://www.xml.com/pub/a/2002/12/04/svg.html</link>
+      <description>SVG's Past and Promising Future</description>
+    </item>
+  </channel>
+</rss> 
+
